@@ -75,7 +75,7 @@
 		
 		var symbolArray = [animal, people, job];
 		var exportArray = [foodDrink, object];
-		var crisisArray = [problem, goalAspiration];
+		// var crisisArray = [problem, goalAspiration];
 		
 		for(let i=0; i<symbolArray.length; i++){
 
@@ -100,12 +100,13 @@
 
 		}
 
-		for(let k=0; k<crisisArray.length; k++){
+		// for(let k=0; k<crisisArray.length; k++){
 
-			var randomCrisisNumber = Math.floor(Math.random() * crisisArray.length);
-			var crisis = crisisArray[randomCrisisNumber];
+			// var randomCrisisNumber = Math.floor(Math.random() * crisisArray.length);
+			var crisis = 'Someone '.concat(goalAspiration, ' with ', nationalExport, ' and now ', problem);
 
-		}
+
+		// }
 
 
 
