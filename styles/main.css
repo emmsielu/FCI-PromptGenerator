@@ -159,6 +159,20 @@ p{
 
 }
 
+ @media only screen and (max-width: 831px) {
+
+    .header h1{
+
+        justify-self: center;
+
+    }
+
+    .header h4{
+
+        justify-self: center;
+
+    }
+
 
 
 
