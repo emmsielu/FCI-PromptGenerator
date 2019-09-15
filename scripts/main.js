@@ -71,7 +71,7 @@
 
 		var physicalQuirk = chooseCard('physicalQuirk');
 		var problem = chooseCard('problem');
-		var goalAspiration = chooseCard('goalAspiration');
+		// var goalAspiration = chooseCard('goalAspiration');
 		
 		var symbolArray = [animal, people, job];
 		var exportArray = [foodDrink, object];
@@ -103,7 +103,7 @@
 		// for(let k=0; k<crisisArray.length; k++){
 
 			// var randomCrisisNumber = Math.floor(Math.random() * crisisArray.length);
-			var crisis = 'Someone '.concat(goalAspiration, ' with ', nationalExport, ' and now ', problem);
+			var crisis = 'The '.concat(nationalExport, ' ', problem);
 
 
 		// }
