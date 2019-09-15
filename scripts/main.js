@@ -87,8 +87,8 @@
 
 			}else {
 
-				var symbol = symbolArray[randomSymbolNumber];
-				symbol.concat('with', physicalQuirk);
+				var symbol = symbolArray[randomSymbolNumber].concat(' who has ', physicalQuirk);
+		
 			}
 			
 		}
@@ -115,7 +115,6 @@
 		symbolPrompt.innerHTML = symbol;
 		exportPrompt.innerHTML = nationalExport;
 		crisisPrompt.innerHTML = crisis;
-
 		
 	}
 

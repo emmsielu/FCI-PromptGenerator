@@ -106,7 +106,7 @@ body{
 .prompt{
 
     display: grid;
-    grid-template-rows: 80px auto;
+    grid-template-rows: 50px auto;
 /*    grid-gap: 10px;
     flex-flow: column;*/
     /*justify-content: space-around;*/
@@ -159,19 +159,7 @@ p{
 
 }
 
- @media only screen and (max-width: 831px) {
 
-    .header h1{
-
-        justify-self: center;
-
-    }
-
-    .header h4{
-
-        justify-self: center;
-
-    }
 
 
 

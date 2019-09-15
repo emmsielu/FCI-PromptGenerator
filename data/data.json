@@ -167,7 +167,11 @@
 		"a potato",
 		"a butternut squash",
 		"three chocolates",
-		"ten almonds"
+		"ten almonds",
+		"boiled eggs",
+		"savoury bites",
+		"tinned pineapple",
+		"Pickled Onion flavoured monster munch"
 	],
 	"object":[
 		"table",
@@ -199,11 +203,7 @@
 		"socks",
 		"tight leggings",
 		"tights",
-		"mittens",
-		"boiled eggs",
-		"savoury bites",
-		"tinned pineapple",
-		"Pickled Onion flavoured monster munch"
+		"mittens"
 	],
 	"job":[
 		"A Shopkeeper",
@@ -243,9 +243,9 @@
 	"physicalQuirk":[
 		"two heads",
 		"one tiny Arm",
-		"a triangle shaped booty",
-		"oversized left testicle",
-		"got one testicle",
+		"a triangle shaped bum",
+		"an oversized left testicle",
+		"only got one testicle",
 		"grown a third leg",
 		"giant cankles",
 		"traffic lights growing out of their arse",
@@ -253,26 +253,27 @@
 		"one overly long Leg",
 		"two left Feet",
 		"one clown Hand",
-		"shrunken Head",
+		"a shrunken Head",
 		"one enourmous Booby",
 		"three Boobies",
 		"a Willy shaped like a teapot",
 		"a Fanny that sings like Mariah Carey",
 		"one Brocooli Ear",
-		"Tongue made of pastrami",
+		"a tongue made of pastrami",
 		"Eyes that can only see purple",
-		"only hear every other word",
 		"a lampshade for a left arm",
 		"one massive foot",
 		"three eyes",
 		"wonky horns",
-		"missing their left elbow",
-		"hands are tins of baked beans",
-		"has the neck of a goose"
+		"no left elbow",
+		"hands made of tins of baked beans",
+		"the neck of a goose",
+		"the neck of a giraffe growing out of their back"
 	],
 	"problem":[
 		"can't see anything purple",
 		"can't pronounce sausages",
+		"can only hear every other word",
 		"is colour blind",
 		"is afraid of ducks",
 		"is obsessed with christmas jumpers",
@@ -284,7 +285,9 @@
 		"thinks fish are the devil",
 		"is permanently on a rollercoaster",
 		"is too good at terrible dad dancing",
-		"can't stop striking sexy poses"
+		"can't stop striking sexy poses",
+		"there is a worldwide shortage",
+		"nobody remembers how to make them"
 	],
 	"goalAspiration":[
 		"drank really expensive wine in a chateaux in France",
@@ -376,10 +379,16 @@
 		"Uri",
 		"Bodi",
 		"Ola",
-		"Great",
 		"Guni",
 		"Buni",
-		"Ging"
+		"Ging",
+		"Unamad",
+		"Great ",
+		"United ",
+		"New ",
+		"Famrili",
+		"Nani",
+		"Isle of "
 	],
 	"countryMiddle":[
 		"odi",
@@ -388,17 +397,26 @@
 		"bromli",
 		"goni",
 		"funi",
-		"gini"
+		"gini",
+		"aloonga",
+		"donland",
+		"unglabomdo"
 
 	],
 	"countryEnd":[
 		"izistan",
 		"ilani",
-		"land",
+		" land",
 		"ley",
-		"country",
-		"farm",
-		"gen"
+		" country",
+		" farmland",
+		"gen",
+		"dong",
+		"stan",
+		"chan",
+		"iana",
+		"iona",
+		"istan"
 
 	]
 
